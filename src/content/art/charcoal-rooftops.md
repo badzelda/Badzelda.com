@@ -9,7 +9,7 @@ category: charcoal
 categorySlug: charcoal
 categoryLabel: "Charcoal"
 medium: "Charcoal"
-keywords: "brixton, landscape"
+keywords: "landscape"
 image: "/img/art/charcoal/rooftops.jpg"
 description: "Rooftops"
 date: 2025-01-01

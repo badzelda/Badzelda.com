@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, rainbow, over, cliffs"
+keywords: "rainbow, over, cliffs"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/rainbow-over-cliffs.jpeg"
 description: "Rainbow over cliffs and grassland"

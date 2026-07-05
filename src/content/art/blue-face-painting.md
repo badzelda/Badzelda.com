@@ -9,7 +9,7 @@ category: painting
 categorySlug: painting
 categoryLabel: "Painting"
 medium: "Painting"
-keywords: "portrait, brixton"
+keywords: "portrait"
 location: "London (Brixton area)"
 image: "/img/art/painting/blue-face-painting.jpeg"
 description: "Blue expressive face painting, raw brushwork"

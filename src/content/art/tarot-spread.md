@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, tarot, card, spread"
+keywords: "tarot, card, spread"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/tarot-spread.jpeg"
 description: "Tarot card spread with handwritten reading notes"

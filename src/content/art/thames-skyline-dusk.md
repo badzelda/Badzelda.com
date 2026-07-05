@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, river, thames, skyline"
+keywords: "river, thames, skyline"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/thames-skyline-dusk.jpeg"
 description: "River Thames skyline at dusk, blurred lights"

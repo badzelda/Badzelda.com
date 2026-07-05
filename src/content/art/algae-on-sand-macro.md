@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, suffolk, landscape"
+keywords: "suffolk, landscape"
 location: "Suffolk"
 year: "2024"
 image: "/img/art/photography/standalone/algae-on-sand-macro.jpeg"

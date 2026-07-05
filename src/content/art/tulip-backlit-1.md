@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, tulip, backlit, against"
+keywords: "tulip, backlit, against"
 image: "/img/art/photography/standalone/tulip-backlit-1.jpeg"
 description: "Tulip, backlit against wall, angle 1"
 date: 2025-01-01

@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "photography, away, dark"
+keywords: "away, dark"
 sequenceGroup: "Dolls-house story"
 image: "/img/art/photography/dolls-house-story/04-run-away.jpg"
 description: "Run Away"

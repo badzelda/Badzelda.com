@@ -9,7 +9,7 @@ category: digital-commissions
 categorySlug: digital-commissions
 categoryLabel: "Digital Commissions"
 medium: "Interactive (HTML5)"
-keywords: "digital, poetry, ticker"
+keywords: "poetry, ticker"
 embed: "/digital/speakerscorner-ticker.html"
 embedLabel: "Launch Speakers Corner"
 description: "Speakers Corner - a scrolling poem ticker"

@@ -9,7 +9,7 @@ category: studio-work-archive-2008-2018
 categorySlug: studio-work-archive-2008-2018
 categoryLabel: "Studio Work Archive (2008-2018)"
 medium: "Acrylic"
-keywords: "painting, studio, tower, babel"
+keywords: "tower, babel"
 location: "Old studio (pre-2018, priced out)"
 year: "2008"
 image: "/img/art/studio-work-archive-2008-2018/the-tower-of-babel.jpg"

@@ -9,7 +9,7 @@ category: ink-and-wash
 categorySlug: ink-and-wash
 categoryLabel: "Ink and Wash"
 medium: "Ink and Wash"
-keywords: "watercolour, suffolk, dogs, diary-style, marginal"
+keywords: "suffolk, dogs, diary-style, marginal"
 location: "Suffolk"
 year: "2024"
 image: "/img/art/ink-and-wash/two-dogs.jpeg"

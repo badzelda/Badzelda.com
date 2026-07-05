@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "photography, dark"
+keywords: "dark"
 sequenceGroup: "Dolls-house story"
 image: "/img/art/photography/dolls-house-story/02-roll-in-the-hay.jpg"
 description: "Roll In The Hay"

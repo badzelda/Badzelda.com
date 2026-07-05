@@ -9,7 +9,7 @@ category: painting
 categorySlug: painting
 categoryLabel: "Painting"
 medium: "Painting"
-keywords: "painting, shard, circular, canvas"
+keywords: "shard, circular, canvas"
 image: "/img/art/painting/the-shard-circular-canvas.jpeg"
 description: "The Shard, circular canvas"
 date: 2025-01-01

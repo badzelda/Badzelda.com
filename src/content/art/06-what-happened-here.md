@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "photography, what, happened, here"
+keywords: "what, happened, here"
 sequenceGroup: "Dolls-house story, dark"
 image: "/img/art/photography/dolls-house-story/06-what-happened-here.jpg"
 description: "What Happened Here"

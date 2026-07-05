@@ -9,7 +9,7 @@ category: painting
 categorySlug: painting
 categoryLabel: "Painting"
 medium: "Painting"
-keywords: "painting, ruby, slippers, confirmed"
+keywords: "ruby, slippers, confirmed"
 image: "/img/art/painting/ruby-slippers.png"
 description: "Ruby Slippers"
 date: 2025-01-01

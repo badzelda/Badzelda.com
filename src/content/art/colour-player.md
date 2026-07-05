@@ -9,7 +9,7 @@ category: digital-commissions
 categorySlug: digital-commissions
 categoryLabel: "Digital Commissions"
 medium: "Interactive (HTML5)"
-keywords: "digital, sunbather, propellerheads, sound"
+keywords: "sunbather, propellerheads, sound"
 embed: "/digital/colour-player.html"
 embedLabel: "Launch ColourPlayer"
 description: "ColourPlayer - a sound and colour toy made at Sunbather, with samples by the Propellerheads"

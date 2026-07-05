@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "brixton, reportage"
+keywords: "reportage"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/concrete-tunnel-play-slide.jpeg"
 description: "Concrete pipe/tunnel framing a play slide, B&W"

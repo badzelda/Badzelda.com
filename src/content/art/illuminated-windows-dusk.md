@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, illuminated, tower-block, windows"
+keywords: "illuminated, tower-block, windows"
 location: "Brixton"
 image: "/img/art/photography/standalone/illuminated-windows-dusk.JPG"
 description: "Illuminated tower-block windows at dusk, amber grid"
