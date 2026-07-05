@@ -2,7 +2,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/style.css");
   eleventyConfig.addPassthroughCopy("src/random-picker.js");
   eleventyConfig.addPassthroughCopy("src/lightbox.js");
+  eleventyConfig.addPassthroughCopy("src/digital-launch.js");
   eleventyConfig.addPassthroughCopy("src/img");
+  eleventyConfig.addPassthroughCopy("src/digital");
 
   // Re-rolled once per build: gives no-JS visitors a piece that still
   // changes every deploy; random-picker.js gives JS visitors a true

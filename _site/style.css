@@ -146,6 +146,68 @@ ul li { margin: 0 0 0.6em 1em; text-indent: -1em; }
 ul.bull { list-style: disc; margin-left: 2em; margin-bottom: 1.5em; }
 ul.bull li { margin: 0 0 0.6em 0; text-indent: 0; }
 
+/* art index - collections grid */
+
+.art-collections-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 1em;
+}
+
+.art-collection-card {
+  display: block;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.art-collection-card:hover .art-collection-label { color: var(--gold); }
+
+.art-collection-thumb {
+  display: block;
+  aspect-ratio: 4 / 3;
+  background: var(--bg);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.art-collection-thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.art-collection-label {
+  display: block;
+  margin-top: 0.5em;
+  font-style: italic;
+}
+
+@media (max-width: 700px) {
+  .art-collections-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* digital commissions - launch / download buttons */
+
+.digital-launch {
+  margin: 1em 0;
+}
+
+.digital-launch a {
+  display: inline-block;
+  padding: 0.6em 1.2em;
+  background: var(--gold);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 3px;
+  font-style: italic;
+}
+
+.digital-launch a:hover {
+  background: var(--gold-visited);
+}
+
 ul.subnav { font-size: 15px; }
 ul.subnav li { color: var(--muted); margin: 0 0 0.4em 1em; text-indent: -1em; }
 ul.subnav li::before { content: "\BB  "; }

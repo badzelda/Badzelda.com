@@ -52,9 +52,12 @@
       go(index + 1);
     });
 
-    // click on the backdrop (the dialog element itself, not its inner content) closes it
+    // click on the backdrop closes it. The inner wrapper now spans the full
+    // viewport (to centre the image), so "backdrop" means a click that lands
+    // on the dialog itself OR on the empty space of the wrapper — anywhere
+    // that isn't the image, caption, or a nav/close button.
     dialog.addEventListener("click", function (e) {
-      if (e.target === dialog) close();
+      if (e.target === dialog || e.target === innerEl) close();
     });
 
     // Esc fires "cancel" before the dialog closes — intercept so Esc gets
@@ -167,16 +170,16 @@
     ".page-image img { cursor: zoom-in; } " +
     ".lightbox-img { view-transition-name: lightbox-image; } " +
     "dialog.lightbox { position: fixed; inset: 0; width: 100%; height: 100%; max-width: none; max-height: none; margin: 0; padding: 0; border: none; background: transparent; } " +
-    "dialog.lightbox::backdrop { background: rgba(20, 18, 8, 0.55); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); } " +
-    "dialog.lightbox .lightbox-inner { position: relative; max-width: min(90vw, 1100px); max-height: 90vh; margin: 5vh auto; display: flex; flex-direction: column; align-items: center; } " +
-    "dialog.lightbox .lightbox-img { display: block; max-width: 100%; max-height: 78vh; object-fit: contain; border: 1px solid rgba(255,255,255,0.25); } " +
-    "dialog.lightbox .lightbox-caption { color: #f3f1e8; font-family: Georgia, Palatino, \"Palatino Linotype\", serif; font-style: italic; font-size: 14px; margin: 0.75em 1em 0; text-align: center; } " +
-    "dialog.lightbox .lightbox-btn { position: absolute; background: rgba(20,18,8,0.45); color: #f3f1e8; border: none; cursor: pointer; line-height: 1; border-radius: 999px; transition: background-color 0.15s; } " +
-    "dialog.lightbox .lightbox-btn:hover, dialog.lightbox .lightbox-btn:focus-visible { background: #6a5a02; } " +
-    "dialog.lightbox .lightbox-close { top: -44px; right: 0; width: 36px; height: 36px; font-size: 22px; } " +
-    "dialog.lightbox .lightbox-prev, dialog.lightbox .lightbox-next { top: 50%; transform: translateY(-50%); width: 44px; height: 44px; font-size: 26px; } " +
-    "dialog.lightbox .lightbox-prev { left: -10px; } " +
-    "dialog.lightbox .lightbox-next { right: -10px; } " +
-    "@media (max-width: 700px) { dialog.lightbox .lightbox-prev { left: 4px; } dialog.lightbox .lightbox-next { right: 4px; } dialog.lightbox .lightbox-close { top: 8px; right: 8px; } }";
+    "dialog.lightbox::backdrop { background: #0b0b0b; } " +
+    "dialog.lightbox .lightbox-inner { position: fixed; inset: 0; margin: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 24px; } " +
+    "dialog.lightbox .lightbox-img { display: block; max-width: 96vw; max-height: 92vh; object-fit: contain; cursor: default; } " +
+    "dialog.lightbox .lightbox-caption { color: #cfcfcf; font-family: Georgia, Palatino, \"Palatino Linotype\", serif; font-style: italic; font-size: 14px; margin: 0.85em 1em 0; text-align: center; } " +
+    "dialog.lightbox .lightbox-btn { position: fixed; background: rgba(255,255,255,0.08); color: #e8e8e8; border: none; cursor: pointer; line-height: 1; border-radius: 999px; transition: background-color 0.15s; } " +
+    "dialog.lightbox .lightbox-btn:hover, dialog.lightbox .lightbox-btn:focus-visible { background: rgba(255,255,255,0.18); } " +
+    "dialog.lightbox .lightbox-close { top: 18px; right: 18px; width: 40px; height: 40px; font-size: 24px; } " +
+    "dialog.lightbox .lightbox-prev, dialog.lightbox .lightbox-next { top: 50%; transform: translateY(-50%); width: 48px; height: 48px; font-size: 28px; } " +
+    "dialog.lightbox .lightbox-prev { left: 18px; } " +
+    "dialog.lightbox .lightbox-next { right: 18px; } " +
+    "@media (max-width: 700px) { dialog.lightbox .lightbox-inner { padding: 12px; } dialog.lightbox .lightbox-img { max-width: 100vw; max-height: 82vh; } dialog.lightbox .lightbox-prev { left: 6px; } dialog.lightbox .lightbox-next { right: 6px; } dialog.lightbox .lightbox-close { top: 10px; right: 10px; } }";
   document.head.appendChild(style);
 })();

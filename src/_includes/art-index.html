@@ -1,0 +1,39 @@
+---
+layout: base.html
+---
+<div class="layout">
+  <div class="content-col">
+    <div class="panel">
+      <h2>{{ title }}</h2>
+      {{ content }}
+
+      <div class="art-collections-grid">
+        {%- for cat in categories -%}
+          {%- assign thumb = "" -%}
+          {%- assign thumbAlt = "" -%}
+          {%- for item in collections.art -%}
+            {%- if item.data.categorySlug == cat.slug and thumb == "" and item.data.image -%}
+              {%- assign thumb = item.data.image -%}
+              {%- assign thumbAlt = item.data.title -%}
+            {%- endif -%}
+          {%- endfor -%}
+          <a class="art-collection-card" href="/art/category/{{ cat.slug }}/">
+            <span class="art-collection-thumb">
+              {%- if thumb != "" -%}
+                <img src="{{ thumb }}" alt="{{ thumbAlt }}" loading="lazy">
+              {%- endif -%}
+            </span>
+            <span class="art-collection-label">{{ cat.label }}</span>
+          </a>
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+
+  <aside>
+    <div class="panel">
+      <h2>art</h2>
+      <p>&raquo; <a href="/art/introduction/">view all</a></p>
+    </div>
+  </aside>
+</div>

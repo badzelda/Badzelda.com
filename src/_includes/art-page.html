@@ -25,6 +25,16 @@ layout: base.html
           </figure>
         </div>
       {% endif -%}
+      {%- if embed %}
+        <p class="digital-launch">
+          <a href="{{ embed }}" data-fullscreen-launch>{{ embedLabel | default: "Launch" }} &raquo;</a>
+        </p>
+      {% endif -%}
+      {%- if downloadLink %}
+        <p class="digital-launch">
+          <a href="{{ downloadLink }}">{{ downloadLabel | default: "Download" }} &raquo;</a>
+        </p>
+      {% endif -%}
       <div class="art-header-row">
         <h3 class="art-title">{{ title }}</h3>
         <p class="backnext">
