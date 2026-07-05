@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "brixton, dolls-house"
+keywords: "brixton, dolls-house, narrative"
 sequenceGroup: "Dolls-house story"
 image: "/img/art/photography/dolls-house-story/01-breakfasting-alone.jpg"
 description: "Breakfasting Alone"
