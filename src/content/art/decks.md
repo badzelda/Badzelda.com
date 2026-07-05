@@ -10,7 +10,7 @@ categorySlug: digital-commissions
 categoryLabel: "Digital Commissions"
 medium: "Interactive (Flash/SWF, via Ruffle)"
 keywords: "flash, sunbather, toy"
-image: "/img/art/toys/decks-thumb.png"
+previewImage: "/img/art/toys/decks-thumb.png"
 embed: "/digital/decks.html"
 embedLabel: "Launch Decks"
 description: "Decks - a Flash toy from the Sunbather years"

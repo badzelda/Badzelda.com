@@ -26,9 +26,18 @@ layout: base.html
         </div>
       {% endif -%}
       {%- if embed %}
-        <p class="digital-launch">
-          <a href="{{ embed }}" data-fullscreen-launch>{{ embedLabel | default: "Launch" }} &raquo;</a>
-        </p>
+        {%- if previewImage %}
+          <div class="digital-preview">
+            <img src="{{ previewImage }}" alt="{{ title }} preview" loading="lazy">
+            <p class="digital-launch">
+              <a href="{{ embed }}" data-fullscreen-launch>{{ embedLabel | default: "Launch" }} &raquo;</a>
+            </p>
+          </div>
+        {%- else -%}
+          <p class="digital-launch">
+            <a href="{{ embed }}" data-fullscreen-launch>{{ embedLabel | default: "Launch" }} &raquo;</a>
+          </p>
+        {%- endif -%}
       {% endif -%}
       {%- if downloadLink %}
         <p class="digital-launch">
