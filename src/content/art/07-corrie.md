@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "photography, corrie, dark"
+keywords: "corrie, dark"
 sequenceGroup: "Dolls-house story"
 image: "/img/art/photography/dolls-house-story/07-corrie.jpg"
 description: "Corrie"

@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, sunset, through, silhouetted"
+keywords: "sunset, through, silhouetted"
 image: "/img/art/photography/standalone/sunset-through-trees.jpeg"
 description: "Sunset sky through silhouetted trees"
 date: 2025-01-01

@@ -9,7 +9,7 @@ category: watercolour
 categorySlug: watercolour
 categoryLabel: "Watercolour"
 medium: "Watercolour"
-keywords: "watercolour, planet, globe, painting"
+keywords: "planet, globe"
 image: "/img/art/watercolour/where-will-we-go-planet-painting.jpeg"
 description: "Painted in response to the crazy right!"
 date: 2026-06-01

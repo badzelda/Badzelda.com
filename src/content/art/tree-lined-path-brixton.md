@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, tree-lined, path, beside"
+keywords: "tree-lined, path, beside"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/tree-lined-path-brixton.JPG"
 description: "Tree-lined path beside brick wall, B&W"

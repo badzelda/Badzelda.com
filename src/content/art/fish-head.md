@@ -9,7 +9,7 @@ category: studio-work-archive-2008-2018
 categorySlug: studio-work-archive-2008-2018
 categoryLabel: "Studio Work Archive (2008-2018)"
 medium: "Acrylic"
-keywords: "brixton market, studio, fish"
+keywords: "brixton market, fish"
 location: "Old studio (pre-2018, priced out)"
 year: "2008"
 image: "/img/art/studio-work-archive-2008-2018/fish-head.jpg"

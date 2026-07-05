@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, paper-mache, puppet, mask"
+keywords: "paper-mache, puppet, mask"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/puppet-mask-bw.jpeg"
 description: "Paper-mache puppet mask, B&W - documentation of a children's puppet show, NOT Zelda's own sculptural work"

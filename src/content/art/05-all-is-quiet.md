@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "photography, quiet, dark"
+keywords: "quiet, dark"
 sequenceGroup: "Dolls-house story"
 image: "/img/art/photography/dolls-house-story/05-all-is-quiet.jpg"
 description: "All Is Quiet"

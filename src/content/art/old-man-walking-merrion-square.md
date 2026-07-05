@@ -9,7 +9,7 @@ category: watercolour
 categorySlug: watercolour
 categoryLabel: "Watercolour"
 medium: "Watercolour"
-keywords: "watercolour, walking, merrion, square"
+keywords: "walking, merrion, square"
 image: "/img/art/watercolour/old-man-walking-merrion-square.jpeg"
 description: "Old Man Walking, Merrion Square"
 date: 2025-01-01

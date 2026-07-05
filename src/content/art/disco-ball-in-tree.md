@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, sancho"
+keywords: "sancho"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/disco-ball-in-tree.jpeg"
 description: "Disco ball in tree, fisheye reflection"

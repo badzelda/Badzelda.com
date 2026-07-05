@@ -9,7 +9,7 @@ category: photography
 categorySlug: photography
 categoryLabel: "Photography"
 medium: "Photography"
-keywords: "photography, untitled, dark"
+keywords: "dark"
 sequenceGroup: "Dolls-house story"
 image: "/img/art/photography/dolls-house-story/09-untitled-frame-2.jpg"
 description: "(untitled frame)"

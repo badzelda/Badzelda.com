@@ -9,7 +9,7 @@ category: digital-commissions
 categorySlug: digital-commissions
 categoryLabel: "Digital Commissions"
 medium: "Print-and-fold PDF"
-keywords: "digital, poetry, print, zine"
+keywords: "poetry, print, zine"
 image: "/digital/little-book.gif"
 downloadLink: "/digital/little-book.pdf"
 downloadLabel: "Download Little Book (PDF)"

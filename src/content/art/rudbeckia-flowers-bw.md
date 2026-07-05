@@ -9,7 +9,7 @@ category: standalone
 categorySlug: standalone
 categoryLabel: "Standalone"
 medium: "Standalone"
-keywords: "photography, brixton, rudbeckia, flowers, macro"
+keywords: "rudbeckia, flowers, macro"
 location: "London (Brixton area)"
 image: "/img/art/photography/standalone/rudbeckia-flowers-bw.jpeg"
 description: "Rudbeckia flowers, B&W macro"

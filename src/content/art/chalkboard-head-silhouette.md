@@ -9,7 +9,7 @@ category: mixed-media
 categorySlug: mixed-media
 categoryLabel: "Mixed Media"
 medium: "Mixed Media"
-keywords: "digital, brixton, silhouette"
+keywords: "silhouette"
 location: "London (Brixton area)"
 image: "/img/art/mixed-media/chalkboard-head-silhouette.jpeg"
 description: "Chalkboard-textured head silhouette, mid-edit"

@@ -9,7 +9,7 @@ category: painting
 categorySlug: painting
 categoryLabel: "Painting"
 medium: "Painting"
-keywords: "brixton, 23 shoes"
+keywords: "23 shoes"
 image: "/img/art/painting/bryonys-alexander-mcqueens.jpg"
 description: "Bryony's Alexander McQueen's, painted in her flat in Elm Park"
 date: 2025-01-01

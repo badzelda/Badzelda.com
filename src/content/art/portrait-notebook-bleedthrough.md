@@ -9,7 +9,7 @@ category: ink-and-wash
 categorySlug: ink-and-wash
 categoryLabel: "Ink and Wash"
 medium: "Ink and Wash"
-keywords: "watercolour, unnamed, portrait, notebook"
+keywords: "unnamed, portrait, notebook"
 image: "/img/art/ink-and-wash/portrait-notebook-bleedthrough.jpeg"
 description: "Unnamed portrait, notebook page with writing bleed-through"
 date: 2025-01-01

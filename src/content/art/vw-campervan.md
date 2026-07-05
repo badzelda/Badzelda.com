@@ -9,7 +9,7 @@ category: watercolour
 categorySlug: watercolour
 categoryLabel: "Watercolour"
 medium: "Watercolour"
-keywords: "watercolour, suffolk, campervan, plein"
+keywords: "suffolk, campervan, plein"
 location: "Suffolk"
 year: "2024"
 image: "/img/art/watercolour/vw-campervan.jpg"
