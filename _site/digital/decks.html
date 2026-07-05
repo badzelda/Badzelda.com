@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>decks</title>
+<script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #FF9900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #stage {
+    width: 550px;
+    height: 400px;
+  }
+</style>
+</head>
+<body>
+<div id="stage"></div>
+<script>
+  window.RufflePlayer = window.RufflePlayer || {};
+  window.addEventListener("load", () => {
+    const ruffle = window.RufflePlayer.newest();
+    const player = ruffle.createPlayer();
+    const stage = document.getElementById("stage");
+    stage.appendChild(player);
+    player.style.width = "100%";
+    player.style.height = "100%";
+    player.load("/digital/toys/decks.swf");
+  });
+</script>
+</body>
+</html>
