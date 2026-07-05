@@ -38,16 +38,25 @@
     frame.src = "about:blank";
   }
 
-  function init() {
-    build();
+function init() {
+  build();
 
-    document.querySelectorAll("[data-fullscreen-launch]").forEach(function (link) {
-      link.addEventListener("click", function (e) {
-        e.preventDefault();
-        open(link.getAttribute("href"));
-      });
+  var links = document.querySelectorAll("[data-fullscreen-launch]");
+
+  links.forEach(function (link) {
+    link.addEventListener("click", function (e) {
+      e.preventDefault();
+      open(link.getAttribute("href"));
     });
+  });
+
+  // Deep-link support: /art/piece-slug/?launch opens straight into the
+  // fullscreen viewer on load, no click needed - handy for sharing a link
+  // that goes directly to the piece rather than its info page.
+  if (links.length && new URLSearchParams(location.search).has("launch")) {
+    open(links[0].getAttribute("href"));
   }
+}
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
