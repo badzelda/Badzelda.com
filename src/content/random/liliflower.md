@@ -9,6 +9,6 @@ keywords: ""
 description: ""
 date: 2004-01-19
 order: 1
----<img src="./img/gallery/images/lily_flower.jpg">
-<br><br>
+---<img src="./img/gallery/images/lily_flower.jpg"> 
+<br><br> 
 <div class="quote">We only think we are creating things that don't already exist in nature.</div>

@@ -9,6 +9,6 @@ keywords: ""
 description: "naked and proud"
 date: 2004-01-19
 order: 4
----<img src=./img/gallery/images/naked_and_proud.jpg>
-<div class=quote>Naked and proud.</div><br><br>
+---<img src=./img/gallery/images/naked_and_proud.jpg> 
+<div class=quote>Naked and proud.</div><br><br> 
 

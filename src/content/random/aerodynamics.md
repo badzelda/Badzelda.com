@@ -9,8 +9,8 @@ keywords: ""
 description: ""
 date: 2004-01-19
 order: 9
----<div class=quote><B>aerodynamics</B> the three dimensional sculpture of non-euclidian space-time
-<br><br><br>
-<img src=./img/gallery/images/nasa_ion.gif>
-</div>
+---<div class=quote><B>aerodynamics</B> the three dimensional sculpture of non-euclidian space-time 
+<br><br><br> 
+<img src=./img/gallery/images/nasa_ion.gif> 
+</div> 
 

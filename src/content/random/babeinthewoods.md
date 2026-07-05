@@ -10,5 +10,5 @@ description: "painting, brixton village"
 date: 2009-11-04
 order: 4
 note: "<div class=bodytext>add content for the right hand column</div>"
----<img src="./img/gallery/images/zeldarhiando_babeinthewoods.jpg" width="500">
+---<img src="./img/gallery/images/zeldarhiando_babeinthewoods.jpg" width="500"> 
 <p>'Babe in the Woods' (acrylic on lining paper) July 2009</p>

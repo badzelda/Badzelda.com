@@ -8,242 +8,242 @@ draft: false
 keywords: "Literary fiction, novel, unbound authors, bookjam"
 description: "Fukushima Dreams: A gripping literary thriller set in post-tsunami Japan, where a missing child continues to haunt his parents long after the waves have receded. The secrets will out..."
 order: 0
-note: "<div class=bodytext>
-<iframe width=\"100%\" height=\"250\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/309067261&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true\"></iframe>
-<div class=\"spacer\"></div>
-<br /><br />
-<img src=\"./img/fukushima-dreams/cypress-tree-crop.jpg\" alt=\"\" width=\"200\">
-<div class=\"spacer\"></div>
-<img src=\"./img/fukushima-dreams/yomon-sugi.jpg\" alt=\"\" width=\"200\">
-<div class=\"spacer\"></div>
-<img src=\"./img/fukushima-dreams/sakurajima-smoke.jpg\" alt=\"\" width=\"200\">
-<div class=\"spacer\"></div>
-<img src=\"./img/fukushima-dreams/kurusawa-fudai.jpg\" alt=\"\" width=\"200\">
-
-
+note: "<div class=bodytext> 
+<iframe width=\"100%\" height=\"250\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/309067261&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true\"></iframe> 
+<div class=\"spacer\"></div> 
+<br /><br /> 
+<img src=\"./img/fukushima-dreams/cypress-tree-crop.jpg\" alt=\"\" width=\"200\"> 
+<div class=\"spacer\"></div> 
+<img src=\"./img/fukushima-dreams/yomon-sugi.jpg\" alt=\"\" width=\"200\"> 
+<div class=\"spacer\"></div> 
+<img src=\"./img/fukushima-dreams/sakurajima-smoke.jpg\" alt=\"\" width=\"200\"> 
+<div class=\"spacer\"></div> 
+<img src=\"./img/fukushima-dreams/kurusawa-fudai.jpg\" alt=\"\" width=\"200\"> 
+ 
+ 
 </div>"
----<div class=bodytext>
-<iframe width="630" height="315" src="https://www.youtube.com/embed/E0rIQJf2FDc?rel=0" frameborder="0" allowfullscreen></iframe>
-
-<p class="quote">
-A gripping literary thriller set in post-tsunami Japan, where a missing child continues to haunt his parents long after the waves have receded. The secrets will out...
-</p>
-
-
-<p>
-In 2011 a devastating tsunami hit the North-eastern coast of Japan causing a major meltdown at Fukushima - the worst nuclear disaster in the world to date. 16,000 people died that day, and tens of thousands more were displaced - their homes destroyed, their villages contaminated.
-</p>
-
-<p>
-Fukushima Dreams is set against the backdrop of this event. Sachiko lives with her husband and infant son Tashi in a small coastal village. They are both struggling to adapt to life with their new son. When Sachiko’s village is hit, she awakes to find her family are missing. After a fruitless search she, like many others, is forced to leave the area due to radiation fallout. She moves to Tokyo, and a different life.
-</p>
-
-<p>
-Harry had already planned to leave. He uses the disaster as cover, and flees to a mountain refuge. He lives there, hovering on the border of sanity and haunted by the spirit of their son. Winter sets in. Eventually he is forced to return. They must both confront the ghosts of the past.
-</p>
-<br /><br />
-<strong>Available on <a href="https://unbound.com/books/fukushima-dreams">Unbound</a> and at all good bookshops.</strong></p>
-<br /><br />
-
-<hr/>
-<br /><br />
-
-<p style="text-align:center">
-An excerpt from <strong>Fukushima Dreams</strong><br/>
-<em>A novel by Zelda Rhiando</em>
-</p>
-
-
-<p class="quote" style="text-align:center">
-一<br/>
-[chapter 1]
-</p>
-
-<p>
-For a long time – she didn’t know how long – there had been nothing. A kind of dream-nothing that she floated in; a mist that sometimes receded and showed the edges of the world. But still, she was not in the world. She made what brief contact was required, and then she was back in the nothing place.
-</p>
-
-<p>
-The nothing place needs no thought: it is an eternal now. Balanced between yin and yang, here there is no colour. No sound. It’s like being wrapped in cotton wool, except there is no sensation of softness. It is neither comforting, nor terrifying. She doesn’t know how long she’s been here. It has been a long time.
-</p>
-
-<p>
-There was life – but it didn’t work out, and she had come here, had stayed here for so long that she doesn’t remember the other place, the route back. It is lost in the mists sometime. That is the place where her body is, but she doesn’t need it any more. It’s fine here. She doesn’t think, and she doesn’t know. But she dreams.
-</p>
-
-<p>
-The dreams are tiny moments; pearls on a wire. She cannot tell if they are memories or constructions. Some seem too mad to ever have been real. Is that her, on a dais, holding a chain of daisies? Is that her getting married? Is that her swimming beneath the waves, looking through bubbles at where the coral lives? Were these moments in her life that she’s returning to?
-</p>
-
-<p>
-There are other moments, other dreams, other memories. But she knows when they are coming and dives back into the mist. They’re part of him, of them, of those two men in her life that she’s in flight from. Her husband. Her son.
-</p>
-
-<p>
-One minute she was in the dream – and the next everything was collapsing around her. The world was shaking. From inside cupboards dusty boxes that hadn’t seen the light of day for months came crashing down – their contents striking her, pulling her back into the world. She pulled the covers over her head to protect herself, and lay on the bed, curled up. Slowly she let her ears pick out sounds from the general chaos. Outside the apartment block she could hear, hardly muffled, a giant sound of rumbling, and beneath it, tinny, the sound of human screams. Earthquake! Sirens wailed a warning ‘Get out! Get out! Get out!’ And here, by the sea she knew what that meant. How long did she have?
-</p>
-
-<p>
-She ran into the other room. Here too everything was in disorder, all of the small elements of life tossed around as though by a giant child in a tantrum. The child. He wasn’t there. And where was Harry? Had he gone running again? The baby-sling swung crazily on its hook, near the empty bouncer. She turned to the door.
-</p>
-
-<p>
-And that was when everything collapsed. Suddenly the world was dark and she was engulfed in black, cold water. She was blind and breathless. She was barely aware of objects hitting her as she clawed for air – no sense of up or down. And then everything was dark and she knew no more.
-</p>
-
-<p class="quote"  style="text-align:center">
-二<br/>
-[chapter 2]
-</p>
-
-<p>
-Sachiko woke up, and realised she wasn’t in her own bed. Then she remembered, and the pain hit her at the same time; her ribs were the worst. It hurt to breathe. She felt woozy as though she had been given a sedative, and it seemed as though her head and ribs were bandaged. So she had been rescued, then – and was this the first time she had woken up?
-</p>
-
-<p>
-It was very uncertain, but she remembered the shaking – and then the black wall of water that the world had become, and then nothing. But I’m alive!
-</p>
-
-<p>
-Sachiko opened her eyes, and realised that she wasn’t alone. The futon she lay on was one of many crammed into a space she now recognised as part of the local shrine. It was dark now, apart from a small nightlight on the other side of the room, and she could hear nothing but the regular sounds of breathing, of people sleeping deeply. Where were her family? If she had survived, did that mean that Harry and Tashi were fine too?
-</p>
-
-<p>
-She tried to make out how many people were sleeping around her, but they were muffled against the cold night with blankets and surrounded by bundles of rescued belongings. It was too dark to make out faces. All she could do for now was sleep, build up her strength, and hope for the best in the morning. For months she had hidden in dreams, but now they wouldn’t come. She thought about Tashi.
-</p>
-
-<p>
-He arrived in the coldest hour before dawn – cut out after a hard labour that could have no happy ending the natural way. They had wanted it to be natural, but she was too narrow. The first failure.
-</p>
-
-<p>
-He was put in a glass case, with all his needs catered for, and she lay in a hospital bed feeling the raw wound, and the savage after-pains. All around her were other women – it was a ward of eight – with their new babies. She could hear soft gurglings and cooings, occasionally a cry, cut off as a breast was offered. That was the second failure. Tashi would not take to her breast. The midwives were kind and spent hours showing her the correct latch – but Tashi wouldn’t open his mouth: just set it in a line. The midwives tried to show her how to open it with a knuckle, and slip the nipple in behind, but she couldn’t get the hang of it. Or he wouldn’t countenance it: anyway, whichever it was Tashi ended up being fed by bottle. At first, expressed milk, and then (oh the sympathetic looks of the other mothers!) with formula, as Sachiko’s milk inevitably dried up.
-</p>
-
-<p>
-Feeding Tashi by bottle was no easy task. He wouldn’t take the milk, and sob with frustrated hunger, or would gulp it and scream for hours with colic. She couldn’t get a handle on what caused his sudden cries. The nurses said he would grow out of it. After a little while they pronounced her all better and sent her home with her new baby.
-</p>
-
-<p>
-At first Harry tried to help, but he was often at work and Sachiko was left to fill the empty hours. That was when she began to experiment with absenting herself from the here and now. When it seemed was nothing more she could do for Tashi she went away. She ensured he was clean and dry, fed him whatever he would take, and then she left.
-</p>
-
-<p>
-The neighbours heard the child of course – his cries through the thin walls had become a backdrop to their nights. Most worked in the daytime though. No one went to call on the new mother and child; it was considered a time for privacy. If they had they would have seen her curled up on the bed whilst Tashi lay in his cot and wailed whilst Sachiko hid – in a little room that she made in her mind. It was safe, that room. She could make it look like anything! It had a door – she could leave anytime. But after a while, when she opened that door there was only a mist – and she began to be afraid that she was lost.
-</p>
-
-<p style="text-align:center">
-*          *          *
-</p>
-
-<p>
-Eventually, morning came. At some point Sachiko had fallen into a restless sleep, and went she woke the next time she found people stirring around her. Some beds were already empty. Chinks of light showed through the wooden shutters. She could still feel the pain in her ribs, and the painkillers had worn off, to be replaced by hunger, and thirst.
-</p>
-
-<p>
-Her head hurt, and when she put her hand up she felt a bandage holding a thick pad onto the back of her head. She sat up, No one took any notice of her for now. She discovered that she was lightly dressed in nightclothes – not hers. Her feet were clad in socks, again, not hers.
-</p>
-
-<p>
-Getting up she hobbled over to the door. Opening it, she found an assortment of plastic sandals on the wooden porch, and slid her feet into a pair. It was light outside, but the flat white of the sky made it hard to tell the time.
-</p>
-
-<p>
-The little shrine sat amidst the trees, tucked into the mountainside. A muddy, leaf-strewn path and a steep flight of steps connected it to the village, and behind it the cemetery spread out over a number of stepped plots that petered out into thick tree cover. Around the shrine were several stone benches, one of which was occupied by a couple of women she recognised from the village.
-</p>
-
-<p>
-Looking up, one of them gave a cry of delight.
-</p>
-
-<p>
-“Sachiko-san – you’re awake! We were worried that you’d got a terrible concussion from that blow to the head.”
-</p>
-
-<p>
-Sachiko thought that her name might be Hiroko. She was young and looked terribly worried and tired. Beside her was an older woman, whom Sachiko vaguely recognised as Hiroko’s mother.
-</p>
-
-<p>
-“Hiroko isn’t it? I don’t feel too bad. Have you seen my husband, Harry? Or my son, Tashi?”
-</p>
-
-<p>
-“I’m sorry, but I don’t think they’ve been here. It’s been chaos. All of the men are out searching for survivors – the whole sea front is washed away. The village hall is gone, and the onsen, and most of the main street. The railway is out too. And the power.”
-</p>
-
-<p>
-Sachiko felt a cold shiver of panic course through her. It was all gone. And no sign of her family. It felt all too real after the months of drifting, but at the same time had the quality of nightmare. Her legs felt weak, and she would have stumbled, but Hiroko, with instinctive kindness, had already sprung up to help her to a seat. Pictures came into her head, and suddenly she could place the girl. She worked in one of the village shops and always had a ready smile. Sachiko remembered she had a child – a toddler of three or four. There was no sign of him now. Despite her pain she asked after the child, with automatic politeness.
-</p>
-
-<p>
-“And your child – is he ok?”
-</p>
-
-<p>
-“Thankfully he was found – he turned up on the roof of the school. Luckily the school caretaker was able to pick him up and take him there in the confusion, but couldn’t contact me here to tell me he was safe. I just found out an hour ago, and I’m waiting for him now.”
-</p>
-
-<p>
-Seeing Sachiko gazing at her with naked fear in her eyes, Hiroko hurried to reassure her.
-</p>
-
-<p>
-“I’m sure your husband will turn up – he’s probably just somewhere safe with the child and can’t get in touch with you. People are turning up all the time. You need to keep your strength up, so you can look after them when they’re found. There’s some food inside if you want to get some breakfast?”
-</p>
-
-<p>
-Sachiko tried to smile, but couldn’t rid herself of the sick feeling that they were both dead, and she’d never see them again. It was almost as though she felt a presentiment of doom. She was hungry though.
-</p>
-
-<p>
-“Thanks Hiroko – I am hungry. And I won’t do them any good if I make myself ill and can’t look after them when they’re found.”
-</p>
-
-<p>
-“That’s the spirit. Come on – I’ll show you where the food is. Will you be ok here for the moment Mama?”
-</p>
-
-<p>
-The old woman had been nodding off whilst they spoke, but woke when her name was mentioned.
-</p>
-
-<p>
-“What? What was that?”
-</p>
-
-<p>
-“Mama, I’m going to take Sachiko and show her where to get some breakfast. Would you like to come and have a lie-down inside?”
-</p>
-
-<p>
-“Is there no word of Taiki?” Her voice quavered, and she seemed almost at the end of her strength. Hiroko’s reply was gentle.
-</p>
-
-<p>
-“Not yet Mama – I’m sure it won’t be much longer. Why don’t you sleep a little?”
-</p>
-
-<p>
-Now Sachiko remembered her husband – a quiet-voiced fisherman she had seen occasionally, bringing his catches into the shop. They went inside and got the old lady settled, then Hiroko found Sachiko a bowl of rice and some dried fish.
-</p>
-
-<p>
-“It isn’t much. Hopefully some extra supplies will be coming in soon. There hasn’t been much news, but it sounds like the whole coast got it.”
-</p>
-
-<p>
-“What happened?”
-</p>
-
-<p>
-“I’m not sure, but apparently an earthquake out to sea triggered a massive tsunami. I’ve never heard of one this big though. The seawalls are supposed to stop it reaching the town.”
-</p>
-
-<p>
-They were silent for a while. Sachiko picked at her rice and wished she had some seasoning, or a few pickles to relieve its blandness. A little daikon, or some sour plums. Then she told herself off, sternly, for being so selfish. She was lucky to have food. She had little appetite, but made herself eat anyway, and tried not to worry about Harry, and Tashi. She kept remembering the empty house. She had to hold onto that. Neither of them had been home before the tsunami had struck. It was a small hope to cling to, but still something. She had to believe that they were safe together. Somewhere.
-</p>
-
-<h2>Did you like it? Want to read more? This book needs your support. Visit <a href="https://unbound.com/books/fukushima-dreams">https://unbound.com/books/fukushima-dreams</a> to help it reach a wider audience.</h2>
-
+---<div class=bodytext> 
+<iframe width="630" height="315" src="https://www.youtube.com/embed/E0rIQJf2FDc?rel=0" frameborder="0" allowfullscreen></iframe> 
+ 
+<p class="quote"> 
+A gripping literary thriller set in post-tsunami Japan, where a missing child continues to haunt his parents long after the waves have receded. The secrets will out... 
+</p> 
+ 
+ 
+<p> 
+In 2011 a devastating tsunami hit the North-eastern coast of Japan causing a major meltdown at Fukushima - the worst nuclear disaster in the world to date. 16,000 people died that day, and tens of thousands more were displaced - their homes destroyed, their villages contaminated. 
+</p> 
+ 
+<p> 
+Fukushima Dreams is set against the backdrop of this event. Sachiko lives with her husband and infant son Tashi in a small coastal village. They are both struggling to adapt to life with their new son. When Sachiko’s village is hit, she awakes to find her family are missing. After a fruitless search she, like many others, is forced to leave the area due to radiation fallout. She moves to Tokyo, and a different life. 
+</p> 
+ 
+<p> 
+Harry had already planned to leave. He uses the disaster as cover, and flees to a mountain refuge. He lives there, hovering on the border of sanity and haunted by the spirit of their son. Winter sets in. Eventually he is forced to return. They must both confront the ghosts of the past. 
+</p> 
+<br /><br /> 
+<strong>Available on <a href="https://unbound.com/books/fukushima-dreams">Unbound</a> and at all good bookshops.</strong></p> 
+<br /><br /> 
+ 
+<hr/> 
+<br /><br /> 
+ 
+<p style="text-align:center"> 
+An excerpt from <strong>Fukushima Dreams</strong><br/> 
+<em>A novel by Zelda Rhiando</em> 
+</p> 
+ 
+ 
+<p class="quote" style="text-align:center"> 
+一<br/> 
+[chapter 1] 
+</p> 
+ 
+<p> 
+For a long time – she didn’t know how long – there had been nothing. A kind of dream-nothing that she floated in; a mist that sometimes receded and showed the edges of the world. But still, she was not in the world. She made what brief contact was required, and then she was back in the nothing place. 
+</p> 
+ 
+<p> 
+The nothing place needs no thought: it is an eternal now. Balanced between yin and yang, here there is no colour. No sound. It’s like being wrapped in cotton wool, except there is no sensation of softness. It is neither comforting, nor terrifying. She doesn’t know how long she’s been here. It has been a long time. 
+</p> 
+ 
+<p> 
+There was life – but it didn’t work out, and she had come here, had stayed here for so long that she doesn’t remember the other place, the route back. It is lost in the mists sometime. That is the place where her body is, but she doesn’t need it any more. It’s fine here. She doesn’t think, and she doesn’t know. But she dreams. 
+</p> 
+ 
+<p> 
+The dreams are tiny moments; pearls on a wire. She cannot tell if they are memories or constructions. Some seem too mad to ever have been real. Is that her, on a dais, holding a chain of daisies? Is that her getting married? Is that her swimming beneath the waves, looking through bubbles at where the coral lives? Were these moments in her life that she’s returning to? 
+</p> 
+ 
+<p> 
+There are other moments, other dreams, other memories. But she knows when they are coming and dives back into the mist. They’re part of him, of them, of those two men in her life that she’s in flight from. Her husband. Her son. 
+</p> 
+ 
+<p> 
+One minute she was in the dream – and the next everything was collapsing around her. The world was shaking. From inside cupboards dusty boxes that hadn’t seen the light of day for months came crashing down – their contents striking her, pulling her back into the world. She pulled the covers over her head to protect herself, and lay on the bed, curled up. Slowly she let her ears pick out sounds from the general chaos. Outside the apartment block she could hear, hardly muffled, a giant sound of rumbling, and beneath it, tinny, the sound of human screams. Earthquake! Sirens wailed a warning ‘Get out! Get out! Get out!’ And here, by the sea she knew what that meant. How long did she have? 
+</p> 
+ 
+<p> 
+She ran into the other room. Here too everything was in disorder, all of the small elements of life tossed around as though by a giant child in a tantrum. The child. He wasn’t there. And where was Harry? Had he gone running again? The baby-sling swung crazily on its hook, near the empty bouncer. She turned to the door. 
+</p> 
+ 
+<p> 
+And that was when everything collapsed. Suddenly the world was dark and she was engulfed in black, cold water. She was blind and breathless. She was barely aware of objects hitting her as she clawed for air – no sense of up or down. And then everything was dark and she knew no more. 
+</p> 
+ 
+<p class="quote"  style="text-align:center"> 
+二<br/> 
+[chapter 2] 
+</p> 
+ 
+<p> 
+Sachiko woke up, and realised she wasn’t in her own bed. Then she remembered, and the pain hit her at the same time; her ribs were the worst. It hurt to breathe. She felt woozy as though she had been given a sedative, and it seemed as though her head and ribs were bandaged. So she had been rescued, then – and was this the first time she had woken up? 
+</p> 
+ 
+<p> 
+It was very uncertain, but she remembered the shaking – and then the black wall of water that the world had become, and then nothing. But I’m alive! 
+</p> 
+ 
+<p> 
+Sachiko opened her eyes, and realised that she wasn’t alone. The futon she lay on was one of many crammed into a space she now recognised as part of the local shrine. It was dark now, apart from a small nightlight on the other side of the room, and she could hear nothing but the regular sounds of breathing, of people sleeping deeply. Where were her family? If she had survived, did that mean that Harry and Tashi were fine too? 
+</p> 
+ 
+<p> 
+She tried to make out how many people were sleeping around her, but they were muffled against the cold night with blankets and surrounded by bundles of rescued belongings. It was too dark to make out faces. All she could do for now was sleep, build up her strength, and hope for the best in the morning. For months she had hidden in dreams, but now they wouldn’t come. She thought about Tashi. 
+</p> 
+ 
+<p> 
+He arrived in the coldest hour before dawn – cut out after a hard labour that could have no happy ending the natural way. They had wanted it to be natural, but she was too narrow. The first failure. 
+</p> 
+ 
+<p> 
+He was put in a glass case, with all his needs catered for, and she lay in a hospital bed feeling the raw wound, and the savage after-pains. All around her were other women – it was a ward of eight – with their new babies. She could hear soft gurglings and cooings, occasionally a cry, cut off as a breast was offered. That was the second failure. Tashi would not take to her breast. The midwives were kind and spent hours showing her the correct latch – but Tashi wouldn’t open his mouth: just set it in a line. The midwives tried to show her how to open it with a knuckle, and slip the nipple in behind, but she couldn’t get the hang of it. Or he wouldn’t countenance it: anyway, whichever it was Tashi ended up being fed by bottle. At first, expressed milk, and then (oh the sympathetic looks of the other mothers!) with formula, as Sachiko’s milk inevitably dried up. 
+</p> 
+ 
+<p> 
+Feeding Tashi by bottle was no easy task. He wouldn’t take the milk, and sob with frustrated hunger, or would gulp it and scream for hours with colic. She couldn’t get a handle on what caused his sudden cries. The nurses said he would grow out of it. After a little while they pronounced her all better and sent her home with her new baby. 
+</p> 
+ 
+<p> 
+At first Harry tried to help, but he was often at work and Sachiko was left to fill the empty hours. That was when she began to experiment with absenting herself from the here and now. When it seemed was nothing more she could do for Tashi she went away. She ensured he was clean and dry, fed him whatever he would take, and then she left. 
+</p> 
+ 
+<p> 
+The neighbours heard the child of course – his cries through the thin walls had become a backdrop to their nights. Most worked in the daytime though. No one went to call on the new mother and child; it was considered a time for privacy. If they had they would have seen her curled up on the bed whilst Tashi lay in his cot and wailed whilst Sachiko hid – in a little room that she made in her mind. It was safe, that room. She could make it look like anything! It had a door – she could leave anytime. But after a while, when she opened that door there was only a mist – and she began to be afraid that she was lost. 
+</p> 
+ 
+<p style="text-align:center"> 
+*          *          * 
+</p> 
+ 
+<p> 
+Eventually, morning came. At some point Sachiko had fallen into a restless sleep, and went she woke the next time she found people stirring around her. Some beds were already empty. Chinks of light showed through the wooden shutters. She could still feel the pain in her ribs, and the painkillers had worn off, to be replaced by hunger, and thirst. 
+</p> 
+ 
+<p> 
+Her head hurt, and when she put her hand up she felt a bandage holding a thick pad onto the back of her head. She sat up, No one took any notice of her for now. She discovered that she was lightly dressed in nightclothes – not hers. Her feet were clad in socks, again, not hers. 
+</p> 
+ 
+<p> 
+Getting up she hobbled over to the door. Opening it, she found an assortment of plastic sandals on the wooden porch, and slid her feet into a pair. It was light outside, but the flat white of the sky made it hard to tell the time. 
+</p> 
+ 
+<p> 
+The little shrine sat amidst the trees, tucked into the mountainside. A muddy, leaf-strewn path and a steep flight of steps connected it to the village, and behind it the cemetery spread out over a number of stepped plots that petered out into thick tree cover. Around the shrine were several stone benches, one of which was occupied by a couple of women she recognised from the village. 
+</p> 
+ 
+<p> 
+Looking up, one of them gave a cry of delight. 
+</p> 
+ 
+<p> 
+“Sachiko-san – you’re awake! We were worried that you’d got a terrible concussion from that blow to the head.” 
+</p> 
+ 
+<p> 
+Sachiko thought that her name might be Hiroko. She was young and looked terribly worried and tired. Beside her was an older woman, whom Sachiko vaguely recognised as Hiroko’s mother. 
+</p> 
+ 
+<p> 
+“Hiroko isn’t it? I don’t feel too bad. Have you seen my husband, Harry? Or my son, Tashi?” 
+</p> 
+ 
+<p> 
+“I’m sorry, but I don’t think they’ve been here. It’s been chaos. All of the men are out searching for survivors – the whole sea front is washed away. The village hall is gone, and the onsen, and most of the main street. The railway is out too. And the power.” 
+</p> 
+ 
+<p> 
+Sachiko felt a cold shiver of panic course through her. It was all gone. And no sign of her family. It felt all too real after the months of drifting, but at the same time had the quality of nightmare. Her legs felt weak, and she would have stumbled, but Hiroko, with instinctive kindness, had already sprung up to help her to a seat. Pictures came into her head, and suddenly she could place the girl. She worked in one of the village shops and always had a ready smile. Sachiko remembered she had a child – a toddler of three or four. There was no sign of him now. Despite her pain she asked after the child, with automatic politeness. 
+</p> 
+ 
+<p> 
+“And your child – is he ok?” 
+</p> 
+ 
+<p> 
+“Thankfully he was found – he turned up on the roof of the school. Luckily the school caretaker was able to pick him up and take him there in the confusion, but couldn’t contact me here to tell me he was safe. I just found out an hour ago, and I’m waiting for him now.” 
+</p> 
+ 
+<p> 
+Seeing Sachiko gazing at her with naked fear in her eyes, Hiroko hurried to reassure her. 
+</p> 
+ 
+<p> 
+“I’m sure your husband will turn up – he’s probably just somewhere safe with the child and can’t get in touch with you. People are turning up all the time. You need to keep your strength up, so you can look after them when they’re found. There’s some food inside if you want to get some breakfast?” 
+</p> 
+ 
+<p> 
+Sachiko tried to smile, but couldn’t rid herself of the sick feeling that they were both dead, and she’d never see them again. It was almost as though she felt a presentiment of doom. She was hungry though. 
+</p> 
+ 
+<p> 
+“Thanks Hiroko – I am hungry. And I won’t do them any good if I make myself ill and can’t look after them when they’re found.” 
+</p> 
+ 
+<p> 
+“That’s the spirit. Come on – I’ll show you where the food is. Will you be ok here for the moment Mama?” 
+</p> 
+ 
+<p> 
+The old woman had been nodding off whilst they spoke, but woke when her name was mentioned. 
+</p> 
+ 
+<p> 
+“What? What was that?” 
+</p> 
+ 
+<p> 
+“Mama, I’m going to take Sachiko and show her where to get some breakfast. Would you like to come and have a lie-down inside?” 
+</p> 
+ 
+<p> 
+“Is there no word of Taiki?” Her voice quavered, and she seemed almost at the end of her strength. Hiroko’s reply was gentle. 
+</p> 
+ 
+<p> 
+“Not yet Mama – I’m sure it won’t be much longer. Why don’t you sleep a little?” 
+</p> 
+ 
+<p> 
+Now Sachiko remembered her husband – a quiet-voiced fisherman she had seen occasionally, bringing his catches into the shop. They went inside and got the old lady settled, then Hiroko found Sachiko a bowl of rice and some dried fish. 
+</p> 
+ 
+<p> 
+“It isn’t much. Hopefully some extra supplies will be coming in soon. There hasn’t been much news, but it sounds like the whole coast got it.” 
+</p> 
+ 
+<p> 
+“What happened?” 
+</p> 
+ 
+<p> 
+“I’m not sure, but apparently an earthquake out to sea triggered a massive tsunami. I’ve never heard of one this big though. The seawalls are supposed to stop it reaching the town.” 
+</p> 
+ 
+<p> 
+They were silent for a while. Sachiko picked at her rice and wished she had some seasoning, or a few pickles to relieve its blandness. A little daikon, or some sour plums. Then she told herself off, sternly, for being so selfish. She was lucky to have food. She had little appetite, but made herself eat anyway, and tried not to worry about Harry, and Tashi. She kept remembering the empty house. She had to hold onto that. Neither of them had been home before the tsunami had struck. It was a small hope to cling to, but still something. She had to believe that they were safe together. Somewhere. 
+</p> 
+ 
+<h2>Did you like it? Want to read more? This book needs your support. Visit <a href="https://unbound.com/books/fukushima-dreams">https://unbound.com/books/fukushima-dreams</a> to help it reach a wider audience.</h2> 
+ 
 </div>

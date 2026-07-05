@@ -10,41 +10,41 @@ description: ""
 date: 2004-03-27
 order: 40
 note: "My grandmother sent me this story as part of her GCSE coursework. For me it's an amazing insight into her childhood, and I love the way that she writes."
----By my grandomother, Kitty Kenna
-
-
-<p>
-There were 9 children in our family: 7 girls and 2 boys. We lived in a typical old-fashioned rambling house in a village called Dalkey in Co. Dublin, Ireland.<br><br>
-With so many children my mother was always busy, sometimes harassed, and we were mostly only allowed in the house for meals, or if the weather was bad; so we spent our days in the surrounding fields or climbing Killiney Hill.<br><br>
-This Hill, towering over the village, was partly covered in trees of all sorts and of all ages. It had winding paths and picnic areas, which attracted visitors in the summer.
-</p>
-
-<p>
-Around the base of the Hill ran Vico Road. From this road, and the top of the hill, you had a perfect view of Dublin Bay.<br><br>
-There were several ruined estates at the top of Killiney Hill, and an ancient site called the Druid's Chair; a circle of very old oak trees surrounding great blocks of granite. One granite structure was like a flat table with a horizontal slab balanced on two vertical stones. There was also a strange slab standing lengthways, and in the centre of the top was carved out a neck-sized hollow. It was said that these were sacrificial stones, and we scared ourselves making up stories of the horrors enacted here.
-</p>
-
-
-<p>
-Beyond this grove, mostly unfrequented by visitors, was a ruined castle standing close to the edge of a large outcrop of rock.<br><br>
-This castle overlooked a disused quarry where, in the past times, granite stones were hewed for all kinds of buildings. Through the years small brambles and gorse had taken root in crevices, so looking down into the old quarry you saw a lot of vegetation, even some trees on the quarry floor.
-</p>
-
-
-<p>
-We frequently played there. It was high and unprotected so on windy days we kept well away from the edge, especially if the wind was blowing from behind us! One very windy day, I had the exciting idea that if I had a large umbrella I could float down to the bottom of the quarry. I was 11 years old, imaginative, wild and daring. Encouraged by the other children, we ran home and acquired a large black gentleman's umbrella from the hallstand. Then ran back up the hill, where there was now a regular gale blowing. 
-</p>
-
-<p>
-Opening the umbrella and holding it aloft I jumped. For a few seconds it was lovely and I floated in the air. Then a gust blew the umbrella inside out and I fell, screaming, down the quarry face. By luck I fell into a clump of gorse bushes, where I stayed suspended motionless, unable to go either up or down.
-</p>
-
-
-<p>
-It was not easy to rescue me, and a professional rescue team was called. The press came with clicking cameras and the story made all the local weekend papers. �Local Girl Falls From Druid's Chair� proclaimed the headlines. Lurid stories were printed about the haunting and evil atmosphere of that place. But they got it wrong. We all kept quiet and there was no mention of umbrellas.
-</p>
-
-<p>
-The castle still stands and the Druid's Chair is a protected site. Killiney Hill still dominates the village, but my floaty days are over. I now enjoy the view over the quarry from the safety of my caf� table, and the security of a nice cup of tea.
-</p>
+---By my grandomother, Kitty Kenna 
+ 
+ 
+<p> 
+There were 9 children in our family: 7 girls and 2 boys. We lived in a typical old-fashioned rambling house in a village called Dalkey in Co. Dublin, Ireland.<br><br> 
+With so many children my mother was always busy, sometimes harassed, and we were mostly only allowed in the house for meals, or if the weather was bad; so we spent our days in the surrounding fields or climbing Killiney Hill.<br><br> 
+This Hill, towering over the village, was partly covered in trees of all sorts and of all ages. It had winding paths and picnic areas, which attracted visitors in the summer. 
+</p> 
+ 
+<p> 
+Around the base of the Hill ran Vico Road. From this road, and the top of the hill, you had a perfect view of Dublin Bay.<br><br> 
+There were several ruined estates at the top of Killiney Hill, and an ancient site called the Druid's Chair; a circle of very old oak trees surrounding great blocks of granite. One granite structure was like a flat table with a horizontal slab balanced on two vertical stones. There was also a strange slab standing lengthways, and in the centre of the top was carved out a neck-sized hollow. It was said that these were sacrificial stones, and we scared ourselves making up stories of the horrors enacted here. 
+</p> 
+ 
+ 
+<p> 
+Beyond this grove, mostly unfrequented by visitors, was a ruined castle standing close to the edge of a large outcrop of rock.<br><br> 
+This castle overlooked a disused quarry where, in the past times, granite stones were hewed for all kinds of buildings. Through the years small brambles and gorse had taken root in crevices, so looking down into the old quarry you saw a lot of vegetation, even some trees on the quarry floor. 
+</p> 
+ 
+ 
+<p> 
+We frequently played there. It was high and unprotected so on windy days we kept well away from the edge, especially if the wind was blowing from behind us! One very windy day, I had the exciting idea that if I had a large umbrella I could float down to the bottom of the quarry. I was 11 years old, imaginative, wild and daring. Encouraged by the other children, we ran home and acquired a large black gentleman's umbrella from the hallstand. Then ran back up the hill, where there was now a regular gale blowing.  
+</p> 
+ 
+<p> 
+Opening the umbrella and holding it aloft I jumped. For a few seconds it was lovely and I floated in the air. Then a gust blew the umbrella inside out and I fell, screaming, down the quarry face. By luck I fell into a clump of gorse bushes, where I stayed suspended motionless, unable to go either up or down. 
+</p> 
+ 
+ 
+<p> 
+It was not easy to rescue me, and a professional rescue team was called. The press came with clicking cameras and the story made all the local weekend papers.  Local Girl Falls From Druid's Chair  proclaimed the headlines. Lurid stories were printed about the haunting and evil atmosphere of that place. But they got it wrong. We all kept quiet and there was no mention of umbrellas. 
+</p> 
+ 
+<p> 
+The castle still stands and the Druid's Chair is a protected site. Killiney Hill still dominates the village, but my floaty days are over. I now enjoy the view over the quarry from the safety of my caf  table, and the security of a nice cup of tea. 
+</p> 
 

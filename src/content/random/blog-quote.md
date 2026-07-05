@@ -9,7 +9,7 @@ keywords: ""
 description: ""
 date: 2011-11-30
 order: 7
----<div class=bodytext><p class="quote">
-Pre-emptive infosuicide is the reason I haven't got a blog.
-</p>
+---<div class=bodytext><p class="quote"> 
+Pre-emptive infosuicide is the reason I haven't got a blog. 
+</p> 
 </div>

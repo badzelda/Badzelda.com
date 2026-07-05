@@ -10,4 +10,3 @@ description: "little book"
 date: 2011-11-11
 order: 77
 relatedFiles: ["./toys/little_book.pdf"]
----<div class=bodytext><a href="./toys/little_book.pdf"><img src="./toys/little_book.gif"></a></div>
