@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: pearse
 draft: false
-category: ink-and-wash
-categorySlug: ink-and-wash
-categoryLabel: "Ink and Wash"
+category: sketches
+categorySlug: sketches
+categoryLabel: "Sketches"
 medium: "Ink and Wash"
 keywords: "dublin, bridget"
 image: "/img/art/ink-and-wash/pearse.jpeg"

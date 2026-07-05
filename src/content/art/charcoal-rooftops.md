@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: charcoal-rooftops
 draft: false
-category: charcoal
-categorySlug: charcoal
-categoryLabel: "Charcoal"
+category: sketches
+categorySlug: sketches
+categoryLabel: "Sketches"
 medium: "Charcoal"
 keywords: "landscape"
 image: "/img/art/charcoal/rooftops.jpg"

@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: portrait-notebook-bleedthrough
 draft: false
-category: ink-and-wash
-categorySlug: ink-and-wash
-categoryLabel: "Ink and Wash"
+category: sketches
+categorySlug: sketches
+categoryLabel: "Sketches"
 medium: "Ink and Wash"
 keywords: "unnamed, portrait, notebook"
 image: "/img/art/ink-and-wash/portrait-notebook-bleedthrough.jpeg"

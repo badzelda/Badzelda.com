@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: beach-hut-building-2012
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "landscape, cornwall"
 location: "Cornwall"

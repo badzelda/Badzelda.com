@@ -1,5 +1,5 @@
 ---
-id: 406
+id: 414
 title: "Photography"
 layout: art-category.html
 section: art
@@ -8,5 +8,5 @@ categorySlug: photography
 draft: false
 description: "Photography"
 date: 2025-01-01
-order: 6
+order: 3
 ---

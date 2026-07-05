@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: kitty-mountain
 draft: false
-category: mixed-media
-categorySlug: mixed-media
-categoryLabel: "Mixed Media"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Mixed Media"
 keywords: "portrait, landscape"
 image: "/img/art/mixed-media/kitty-mountain.jpg"

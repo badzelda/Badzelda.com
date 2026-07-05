@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: coastal-seascape
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "suffolk, seascape, close-up"
 location: "Suffolk"

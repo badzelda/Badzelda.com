@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: rainbow-over-cliffs
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "rainbow, over, cliffs"
 location: "London (Brixton area)"

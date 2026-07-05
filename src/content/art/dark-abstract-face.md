@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: dark-abstract-face
 draft: false
-category: ink-and-wash
-categorySlug: ink-and-wash
-categoryLabel: "Ink and Wash"
+category: sketches
+categorySlug: sketches
+categoryLabel: "Sketches"
 medium: "Ink and Wash"
 keywords: "portrait, dark, abstract"
 image: "/img/art/ink-and-wash/dark-abstract-face.jpeg"

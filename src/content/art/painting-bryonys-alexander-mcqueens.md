@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: painting-bryonys-alexander-mcqueens
 draft: false
-category: painting
-categorySlug: painting
-categoryLabel: "Painting"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Painting"
 keywords: "23 shoes"
 image: "/img/art/painting/bryonys-alexander-mcqueens.jpg"

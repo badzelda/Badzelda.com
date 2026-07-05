@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: lexy-is-lovely
 draft: false
-category: ink-and-wash
-categorySlug: ink-and-wash
-categoryLabel: "Ink and Wash"
+category: sketches
+categorySlug: sketches
+categoryLabel: "Sketches"
 medium: "Ink and Wash"
 keywords: "portrait, suffolk"
 location: "Suffolk"

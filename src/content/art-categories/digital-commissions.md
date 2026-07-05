@@ -8,5 +8,5 @@ categorySlug: digital-commissions
 draft: false
 description: "Digital Commissions"
 date: 2025-01-01
-order: 11
+order: 4
 ---

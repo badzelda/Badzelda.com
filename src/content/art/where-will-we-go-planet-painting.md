@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: where-will-we-go-planet-painting
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "planet, globe"
 image: "/img/art/watercolour/where-will-we-go-planet-painting.jpeg"

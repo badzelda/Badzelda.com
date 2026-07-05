@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: sunset-through-trees
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "sunset, through, silhouetted"
 image: "/img/art/photography/standalone/sunset-through-trees.jpeg"

@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: disco-ball-in-tree
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "sancho"
 location: "London (Brixton area)"

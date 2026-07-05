@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: self-portrait
 draft: false
-category: studio-work-archive-2008-2018
-categorySlug: studio-work-archive-2008-2018
-categoryLabel: "Studio Work Archive (2008-2018)"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Acrylic"
 keywords: "self, portrait"
 location: "Old studio (pre-2018, priced out)"

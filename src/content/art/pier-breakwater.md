@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: pier-breakwater
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "suffolk, pier, breakwater, rocks"
 location: "Suffolk"

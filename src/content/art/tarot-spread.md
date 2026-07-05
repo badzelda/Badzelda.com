@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: tarot-spread
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "tarot, card, spread"
 location: "London (Brixton area)"

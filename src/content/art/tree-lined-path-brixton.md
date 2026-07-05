@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: tree-lined-path-brixton
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "tree-lined, path, beside"
 location: "London (Brixton area)"

@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: beach-painting-lone-figure
 draft: false
-category: painting
-categorySlug: painting
-categoryLabel: "Painting"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Painting"
 keywords: "cornwall, landscape"
 image: "/img/art/painting/beach-painting-lone-figure.jpeg"
