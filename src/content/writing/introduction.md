@@ -31,5 +31,3 @@ order: 1
 <a target="_blank" href="http://www.caposcripti.com"><img src="/img/writing/caposcripti-cover.png" width="120" alt="Caposcripti cover"/></a>
 <p><strong>Caposcripti</strong> (2011) A story about serial killers, head shrinking, and the search for language. Winner of the Kidwell-e Ebook Award. Available as an old-fashioned <a href="http://www.caposcripti.com" target="_new">paperback</a> or new-fangled <a href="http://www.amazon.co.uk/Caposcripti-ebook/dp/B005SDHPX4" target="_new">Kindle</a> or <a href="http://itunes.apple.com/gb/book/caposcripti/id490656061?mt=11" target="_new">iBooks</a> editions.</p>
 </div>
-
-<p><strong>Bad Bridget</strong> is next - under contract with Wilton Square Press, out September 2027. Built from several years of genealogical digging into my own family history in Dublin.</p>
