@@ -11,6 +11,7 @@ categoryLabel: "Digital Commissions"
 medium: "Interactive (HTML5)"
 keywords: "sunbather, propellerheads, sound"
 embed: "/digital/colour-player.html"
+previewImage: "/img/art/previews/colour-player-preview.png"
 embedLabel: "Launch ColourPlayer"
 description: "ColourPlayer - a sound and colour toy made at Sunbather, with samples by the Propellerheads"
 date: 2025-01-01

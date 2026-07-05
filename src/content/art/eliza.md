@@ -11,6 +11,7 @@ categoryLabel: "Digital Commissions"
 medium: "Interactive (HTML5)"
 keywords: "digital, chatbot, archaeology"
 embed: "/digital/eliza.html"
+previewImage: "/img/art/previews/eliza-preview.png"
 embedLabel: "Launch Eliza"
 description: "Eliza - a faithful port of Charles Hayden's 1985 Mac implementation of Weizenbaum's ELIZA, found in a backup folder"
 date: 2025-01-01
