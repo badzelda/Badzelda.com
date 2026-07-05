@@ -22,11 +22,8 @@ I'm also a co-organiser of the <a href=http://www.brixtonbookjam.com target=_new
  
 <h2>My Books </h2> 
 <p> 
-I've written a couple of books, and a third is in progress. Find out more about them here: 
+I've writtens several books, and another is in progress. Find out more about them here:  <a target="_blank" href="https://www.ampersand-press.com"><img src="./img/fukushima-dreams/mickey-mouse.jpg" width="160" align="left" /></a> 
 </p> 
-<div class="book-thumb"> 
-<a target="_blank" href="https://unbound.com/books/fukushima-dreams/"><img src="./img/fukushima-dreams/mickey-mouse.jpg" width="160" align="left" /></a>  
-<p><strong>Fukushima Dreams</strong> A gripping literary thriller set in post-tsunami Japan, where a missing child continues to haunt his parents long after the waves have receded. Coming out soon with Unbound <a target="_blank" href="http://badzelda.com/template.php?ID=89&PageName=fukushimadreams">find out more</a> </p> 
 </div> 
  
 <div class="book-thumb"> 
