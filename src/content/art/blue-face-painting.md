@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: blue-face-painting
 draft: false
-category: painting
-categorySlug: painting
-categoryLabel: "Painting"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Painting"
 keywords: "portrait"
 location: "London (Brixton area)"

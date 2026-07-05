@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: the-shard-circular-canvas
 draft: false
-category: painting
-categorySlug: painting
-categoryLabel: "Painting"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Painting"
 keywords: "shard, circular, canvas"
 image: "/img/art/painting/the-shard-circular-canvas.jpeg"

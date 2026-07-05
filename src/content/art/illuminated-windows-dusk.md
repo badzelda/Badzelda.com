@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: illuminated-windows-dusk
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "illuminated, tower-block, windows"
 location: "Brixton"

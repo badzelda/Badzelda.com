@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: tulip-backlit-2
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "tulip, backlit, against"
 image: "/img/art/photography/standalone/tulip-backlit-2.jpeg"

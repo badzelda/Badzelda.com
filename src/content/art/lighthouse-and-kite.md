@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: lighthouse-and-kite
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "suffolk, lighthouse, coastguard, cottages"
 location: "Suffolk"

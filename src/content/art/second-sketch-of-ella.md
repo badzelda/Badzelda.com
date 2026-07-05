@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: second-sketch-of-ella
 draft: false
-category: studio-work-archive-2008-2018
-categorySlug: studio-work-archive-2008-2018
-categoryLabel: "Studio Work Archive (2008-2018)"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Acrylic"
 keywords: "second, sketch, ella"
 location: "Old studio (pre-2018, priced out)"

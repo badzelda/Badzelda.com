@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: portrait-profile-by-window
 draft: false
-category: ink-and-wash
-categorySlug: ink-and-wash
-categoryLabel: "Ink and Wash"
+category: sketches
+categorySlug: sketches
+categoryLabel: "Sketches"
 medium: "Ink and Wash"
 keywords: "portrait, profile, glasses"
 image: "/img/art/ink-and-wash/portrait-profile-by-window.jpeg"

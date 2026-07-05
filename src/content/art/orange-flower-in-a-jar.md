@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: orange-flower-in-a-jar
 draft: false
-category: ink-and-watercolour
-categorySlug: ink-and-watercolour
-categoryLabel: "Ink and Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Ink and Watercolour"
 keywords: "dublin, flower, nature"
 image: "/img/art/ink-and-watercolour/orange-flower-in-a-jar.jpeg"

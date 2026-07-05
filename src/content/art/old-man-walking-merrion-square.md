@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: old-man-walking-merrion-square
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "walking, merrion, square"
 image: "/img/art/watercolour/old-man-walking-merrion-square.jpeg"

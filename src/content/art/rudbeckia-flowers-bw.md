@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: rudbeckia-flowers-bw
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "rudbeckia, flowers, macro"
 location: "London (Brixton area)"

@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: a-story-told-in-the-form-of-things
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "mum, story, sculpture"
 image: "/img/art/photography/standalone/a-story-told-in-the-form-of-things.jpg"

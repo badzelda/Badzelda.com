@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: chalkboard-head-silhouette
 draft: false
-category: mixed-media
-categorySlug: mixed-media
-categoryLabel: "Mixed Media"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Mixed Media"
 keywords: "silhouette"
 location: "London (Brixton area)"

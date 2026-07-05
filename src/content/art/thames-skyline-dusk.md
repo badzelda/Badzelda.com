@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: thames-skyline-dusk
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "river, thames, skyline"
 location: "London (Brixton area)"

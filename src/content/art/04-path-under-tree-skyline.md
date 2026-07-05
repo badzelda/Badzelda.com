@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: 04-path-under-tree-skyline
 draft: false
-category: suffolk-2024-bw
-categorySlug: suffolk-2024-bw
-categoryLabel: "Suffolk-2024-Bw"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Suffolk-2024-Bw"
 keywords: "suffolk, landscape"
 location: "Suffolk"

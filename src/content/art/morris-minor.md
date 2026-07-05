@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: morris-minor
 draft: false
-category: ink-and-watercolour
-categorySlug: ink-and-watercolour
-categoryLabel: "Ink and Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Ink and Watercolour"
 keywords: "morris, minor, front-on"
 image: "/img/art/ink-and-watercolour/morris-minor.jpeg"

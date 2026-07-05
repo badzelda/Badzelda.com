@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: cottage-on-a-cliff
 draft: false
-category: watercolour
-categorySlug: watercolour
-categoryLabel: "Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Watercolour"
 keywords: "suffolk, landscape"
 location: "Suffolk"

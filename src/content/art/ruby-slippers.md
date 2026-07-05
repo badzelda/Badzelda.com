@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: ruby-slippers
 draft: false
-category: painting
-categorySlug: painting
-categoryLabel: "Painting"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Painting"
 keywords: "ruby, slippers, confirmed"
 image: "/img/art/painting/ruby-slippers.png"

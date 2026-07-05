@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: red-brick-building-brixton
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "red-brick, building, tower"
 location: "Brixton"

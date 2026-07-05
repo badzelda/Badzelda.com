@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: calla-lily-and-tulip
 draft: false
-category: standalone
-categorySlug: standalone
-categoryLabel: "Standalone"
+category: photography
+categorySlug: photography
+categoryLabel: "Photography"
 medium: "Standalone"
 keywords: "dublin, still life"
 image: "/img/art/photography/standalone/calla-lily-and-tulip.jpeg"

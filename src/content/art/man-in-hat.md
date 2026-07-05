@@ -5,9 +5,9 @@ layout: art-page.html
 section: art
 slug: man-in-hat
 draft: false
-category: ink-and-watercolour
-categorySlug: ink-and-watercolour
-categoryLabel: "Ink and Watercolour"
+category: paintings
+categorySlug: paintings
+categoryLabel: "Paintings"
 medium: "Ink and Watercolour"
 keywords: "plein, painted, tarp"
 image: "/img/art/ink-and-watercolour/man-in-hat.jpeg"
