@@ -26,7 +26,10 @@ body {
 }
 
 .wrapper {
-  max-width: 960px;
+  /* 960px floor matches the old fixed layout on laptop-ish screens;
+     grows fluidly above that, capped at 1600px so line lengths and
+     the 8:3 column split don't get absurd on ultrawide/4K displays. */
+  max-width: clamp(960px, 82vw, 1600px);
   margin: 0 auto;
   padding: 0 20px 30px;
 }
