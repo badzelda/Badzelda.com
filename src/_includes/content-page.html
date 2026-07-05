@@ -1,0 +1,78 @@
+---
+layout: base.html
+---
+{%- assign coll = collections[section] -%}
+{%- assign currentIndex = -1 -%}
+{%- for item in coll -%}
+  {%- if item.data.slug == slug -%}
+    {%- assign currentIndex = forloop.index0 -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign prevIndex = currentIndex | minus: 1 -%}
+{%- assign nextIndex = currentIndex | plus: 1 -%}
+{%- if prevIndex >= 0 -%}{%- assign prevItem = coll[prevIndex] -%}{%- endif -%}
+{%- if nextIndex < coll.size -%}{%- assign nextItem = coll[nextIndex] -%}{%- endif -%}
+
+{%- assign useKeywordMatch = false -%}
+{%- if section == "writing" and slug != "introduction" -%}{%- assign useKeywordMatch = true -%}{%- endif -%}
+{%- assign myKeywords = keywords | split: ", " -%}
+
+<div class="layout">
+  <div class="content-col">
+    <div class="panel">
+      <p class="backnext">
+        {%- if prevItem -%}<a href="/{{ section }}/{{ prevItem.data.slug }}/">&laquo; back</a>{%- endif -%}
+        {%- if prevItem and nextItem %} | {% endif -%}
+        {%- if nextItem -%}<a href="/{{ section }}/{{ nextItem.data.slug }}/">next &raquo;</a>{%- endif -%}
+      </p>
+      <h2>{{ title }}</h2>
+      {%- if images and images.size > 0 %}
+        <div class="page-images">
+          {%- for img in images %}
+            <figure class="page-image">
+              <img src="{{ img.file }}" alt="{{ img.caption }}" loading="lazy">
+              <figcaption>{{ img.caption }}</figcaption>
+            </figure>
+          {%- endfor %}
+        </div>
+      {% endif -%}
+      {{ content }}
+    </div>
+  </div>
+
+  <aside>
+    <div class="panel">
+      <h2>{{ section }}</h2>
+
+      {%- if useKeywordMatch -%}
+        <p>related pieces:</p>
+        <ul class="subnav">
+          {%- for item in coll -%}
+            {%- assign matched = false -%}
+            {%- for kw in myKeywords -%}
+              {%- if item.data.keywords contains kw -%}{%- assign matched = true -%}{%- endif -%}
+            {%- endfor -%}
+            {%- if matched -%}
+              <li><a href="/{{ section }}/{{ item.data.slug }}/">{{ item.data.title }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+        {%- if keywords and keywords != "" %}<p>keywords: {{ keywords }}</p>{% endif -%}
+        <p>&raquo; <a href="/writing/introduction/">view all</a></p>
+      {%- else -%}
+        <ul class="subnav">
+          {%- for item in coll -%}
+            {%- if item.data.slug == slug -%}
+              <li>{{ item.data.title | downcase }}</li>
+            {%- else -%}
+              <li><a href="/{{ section }}/{{ item.data.slug }}/">{{ item.data.title | downcase }}</a></li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      {%- endif -%}
+    </div>
+    {%- if note and note != "" %}
+      <div class="panel">{{ note }}</div>
+    {% endif -%}
+  </aside>
+</div>

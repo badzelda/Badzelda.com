@@ -1,0 +1,18 @@
+---
+id: 574
+title: "Silhouette"
+layout: art-page.html
+section: art
+slug: chalkboard-head-silhouette
+draft: false
+category: mixed-media
+categorySlug: mixed-media
+categoryLabel: "Mixed Media"
+medium: "Mixed Media"
+keywords: "digital, brixton, silhouette"
+location: "London (Brixton area)"
+image: "/img/art/mixed-media/chalkboard-head-silhouette.jpeg"
+description: "Chalkboard-textured head silhouette, mid-edit"
+date: 2025-01-01
+order: 76
+---

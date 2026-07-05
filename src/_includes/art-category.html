@@ -1,0 +1,30 @@
+---
+layout: base.html
+---
+<div class="layout">
+  <div class="content-col">
+    <div class="panel">
+      <h2>{{ title }}</h2>
+      {{ content }}
+      <ul class="bull">
+        {%- for item in collections.art -%}
+          {%- unless item.data.slug == "introduction" -%}
+            {%- if categorySlug == "__all__" -%}
+              <li><a href="/art/{{ item.data.slug }}/">{{ item.data.title }}</a></li>
+            {%- elsif item.data.category == categorySlug -%}
+              <li><a href="/art/{{ item.data.slug }}/">{{ item.data.title }}</a></li>
+            {%- endif -%}
+          {%- endunless -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+
+  <aside>
+    <div class="panel">
+      <h2>art</h2>
+      <p>&raquo; <a href="/art/introduction/">view all</a></p>
+    </div>
+  </aside>
+</div>
+

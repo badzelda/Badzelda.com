@@ -1,0 +1,18 @@
+---
+layout: base.html
+title: Badzelda.com | news
+permalink: /news/
+---
+<div class="panel news">
+  <h2>What's been happening?</h2>
+  {% for item in news %}
+    <div class="news-item">
+      <div class="date">{{ item.date }}</div>
+      <h3>{{ item.title }}</h3>
+      <p>{{ item.summary }}</p>
+      {% if item.link %}
+        &raquo; <a href="{{ item.link }}" target="{{ item.linkTarget }}">{{ item.linkTitle }}</a>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

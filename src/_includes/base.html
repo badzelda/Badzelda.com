@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<div class="wrapper">
+
+  <header class="panel">
+    <h1><a href="/">Badzelda.com</a></h1>
+    {%- assign workHome = nil -%}
+    {%- for item in collections.work -%}{%- if item.data.order == 1 -%}{%- assign workHome = item -%}{%- endif -%}{%- endfor -%}
+    {%- assign writingHome = nil -%}
+    {%- for item in collections.writing -%}{%- if item.data.order == 1 -%}{%- assign writingHome = item -%}{%- endif -%}{%- endfor -%}
+    {%- assign toysHome = nil -%}
+    {%- for item in collections.toys -%}{%- if item.data.order == 1 -%}{%- assign toysHome = item -%}{%- endif -%}{%- endfor -%}
+    {%- assign artHome = nil -%}
+    {%- for item in collections.art -%}{%- if item.data.order == 1 -%}{%- assign artHome = item -%}{%- endif -%}{%- endfor -%}
+    <nav id="topnav">
+      <ul>
+        <li><a href="/work/{{ workHome.data.slug }}/" {% if section == "work" %}class="active"{% endif %}>work</a></li>
+        <li><a href="/writing/{{ writingHome.data.slug }}/" {% if section == "writing" %}class="active"{% endif %}>writing</a></li>
+        <li><a href="/art/{{ artHome.data.slug }}/" {% if section == "art" %}class="active"{% endif %}>art</a></li>
+        <li><a href="/toys/{{ toysHome.data.slug }}/" {% if section == "toys" %}class="active"{% endif %}>toys</a></li>
+        <li><a href="mailto:nospam@badzelda.com">@</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  {{ content }}
+
+  <footer>
+    <span>&copy; Zelda Rhiando</span>
+  </footer>
+
+</div>
+<script src="/random-picker.js" defer></script>
+<script src="/lightbox.js" defer></script>
+</body>
+</html>

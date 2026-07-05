@@ -1,0 +1,78 @@
+---
+layout: base.html
+---
+{%- assign coll = collections.art -%}
+{%- assign currentIndex = -1 -%}
+{%- for item in coll -%}
+  {%- if item.data.slug == slug -%}
+    {%- assign currentIndex = forloop.index0 -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign prevIndex = currentIndex | minus: 1 -%}
+{%- assign nextIndex = currentIndex | plus: 1 -%}
+{%- if prevIndex >= 0 -%}{%- assign prevItem = coll[prevIndex] -%}{%- endif -%}
+{%- if nextIndex < coll.size -%}{%- assign nextItem = coll[nextIndex] -%}{%- endif -%}
+
+{%- assign myKeywords = keywords | split: ", " -%}
+
+<div class="layout">
+  <div class="content-col">
+    <div class="panel">
+      {%- if image %}
+        <div class="page-images">
+          <figure class="page-image">
+            <img src="{{ image }}" alt="{{ title }}" loading="lazy">
+          </figure>
+        </div>
+      {% endif -%}
+      <div class="art-header-row">
+        <h3 class="art-title">{{ title }}</h3>
+        <p class="backnext">
+          {%- if prevItem -%}<a href="/art/{{ prevItem.data.slug }}/">&laquo; back</a>{%- endif -%}
+          {%- if prevItem and nextItem %} | {% endif -%}
+          {%- if nextItem -%}<a href="/art/{{ nextItem.data.slug }}/">next &raquo;</a>{%- endif -%}
+        </p>
+      </div>
+      {%- assign hasLocationOrYear = false -%}
+      {%- if location or year -%}{%- assign hasLocationOrYear = true -%}{%- endif -%}
+      <p class="art-subtitle">
+        {%- if location %}{{ location }}{% endif -%}
+        {%- if location and year %} {% endif -%}
+        {%- if year %}{{ year }}{% endif -%}
+        {%- if hasLocationOrYear and medium %} | {% endif -%}
+        {%- if medium %}{{ medium }}{% endif -%}
+      </p>
+      {{ content }}
+    </div>
+  </div>
+
+  <aside>
+    <div class="panel">
+      <h2>art</h2>
+
+      {%- if categoryLabel %}
+        <p class="category-link"><a href="/art/category/{{ categorySlug }}/">{{ categoryLabel }}/</a></p>
+      {% endif -%}
+
+      <p>related pieces:</p>
+      <ul class="subnav">
+        {%- for item in coll -%}
+          {%- assign matched = false -%}
+          {%- if item.data.slug != slug -%}
+            {%- for kw in myKeywords -%}
+              {%- if item.data.keywords contains kw -%}{%- assign matched = true -%}{%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+          {%- if matched -%}
+            <li><a href="/art/{{ item.data.slug }}/">{{ item.data.title }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+      {%- if keywords and keywords != "" %}<p>keywords: {{ keywords }}</p>{% endif -%}
+      <p>&raquo; <a href="/art/introduction/">view all</a></p>
+    </div>
+    {%- if note and note != "" %}
+      <div class="panel">{{ note }}</div>
+    {% endif -%}
+  </aside>
+</div>
