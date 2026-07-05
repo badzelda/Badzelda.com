@@ -9,6 +9,7 @@ keywords: "flash, interactive, tv tie-in, deepend, pbs"
 description: "Producer, for Deepend - the interactive companion site, DVD and WebTV overlay for PBS's Empires: The Greeks - Crucible of Civilization"
 date: 2000-02-01
 order: 13
+images: [{"file":"/img/work/pbs-greeks-dvd-menu.png","caption":"The Greeks - Crucible of Civilization DVD main menu"}]
 ---
 <p><strong>Empires: The Greeks - Crucible of Civilization (PBS, 2000)</strong></p>
 <p>A three-part PBS documentary series narrated by Liam Neeson, tracing the rise and fall of Classical Greece. Deepend built the companion interactive site, DVD, and WebTV overlay alongside Atlantic Productions, who made the series itself.</p>
